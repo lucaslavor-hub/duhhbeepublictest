@@ -1,0 +1,24 @@
+## Table of contents:
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.dev/)
+- [expo-auth-session],
+- [expo-av],
+- [expo-camera],
+- [expo-file-system],
+- [expo-font],
+- [expo-image],
+- [expo-image-picker],
+- [expo-linear-gradient],
+- [expo-local-authentication],
+- [expo-router],
+- [expo-secure-store],
+- [expo-splash-screen],
+- [expo-video],
+- [TanStack Query](https://tanstack.com/query/latest/docs/framework/react/overview)
+- [Tamagui UI](https://tamagui.dev/)
+- [Axios](https://axios-http.com/ptbr/docs/intro)
+- [Zod](https://zod.dev/)
+- [React Hook Form](https://www.react-hook-form.com/)
+- [Zustand](https://zustand-demo.pmnd.rs/)
+- [Eslint](https://eslint.org/docs/latest/)
+- [Prettier](https://prettier.io/docs/en/)
